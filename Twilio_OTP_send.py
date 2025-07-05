@@ -2,6 +2,7 @@ from twilio.rest import Client
 import random
 
 # Twilio credentials
+# Add your Twilio credentials here or load them from environment variables
 account_sid = 'AC28xxxxxxxxxxxxxxxxxxxxx'
 auth_token = '323de9exxxxxxxxxxxxxxxxxxx'
 twilio_phone_number = '+123xxxxxxxxx'
