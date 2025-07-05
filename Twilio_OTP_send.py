@@ -2,9 +2,9 @@ from twilio.rest import Client
 import random
 
 # Twilio credentials
-account_sid = 'AC28afb6f20404238dc2fe514ec7e833cb'
-auth_token = '323de9e8405efdb4716390b21a066fec'
-twilio_phone_number = '+13095394180'
+account_sid = 'AC28xxxxxxxxxxxxxxxxxxxxx'
+auth_token = '323de9exxxxxxxxxxxxxxxxxxx'
+twilio_phone_number = '+123xxxxxxxxx'
 
 # Function to generate OTP
 def generate_otp():
